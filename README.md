@@ -1,11 +1,5 @@
 ## 👋 About Me
 
-Absolutely, Sai! Here's an enriched version of your GitHub "About Me" with your interests, hobbies, and fun fact beautifully woven in and grouped by theme:
-
----
-
-## 👋 About Me
-
 Hi, I’m **Sai Kumar**, a data-driven professional with a strong foundation in **data analysis, finance, and business analytics**. I currently work as a **Senior Reference Data Analyst** at **ICE Data Services**, where I specialize in transforming raw financial data into reliable, actionable insights that support strategic decision-making and operational excellence.
 
 Over the past five years, I’ve progressed through multiple roles at ICE—from **Data Researcher** to **Senior Analyst**—leading initiatives that improved data accuracy by 30%, automated over 100 QC reports, and streamlined reference data workflows across thousands of securities. My expertise spans **fixed income securities**, **corporate actions**, and **data quality management**, powered by tools like **SQL, Python Basics, Excel, and Power BI**.
